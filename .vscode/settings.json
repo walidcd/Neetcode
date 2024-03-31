@@ -7,6 +7,8 @@
     "unordered_map": "cpp",
     "vector": "cpp",
     "string": "cpp",
-    "__locale": "cpp"
+    "__locale": "cpp",
+    "utility": "cpp",
+    "map": "cpp"
   }
 }
