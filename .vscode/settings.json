@@ -9,6 +9,7 @@
     "string": "cpp",
     "__locale": "cpp",
     "utility": "cpp",
-    "map": "cpp"
+    "map": "cpp",
+    "stack": "cpp"
   }
 }

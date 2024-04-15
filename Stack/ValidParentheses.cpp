@@ -7,6 +7,7 @@
 #include <utility>
 #include <string>
 #include <vector>
+#include <stack>
 using namespace std;
 
 // time complexity O(n)
